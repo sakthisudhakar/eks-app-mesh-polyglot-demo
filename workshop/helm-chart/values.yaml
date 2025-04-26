@@ -98,7 +98,7 @@ catalog:
 
   image:
     repository: 590183888594.dkr.ecr.us-east-1.amazonaws.com/eks-app-mesh-demo/product_catalog #public.ecr.aws/u2g6w7p2/eks-workshop-demo/product_catalog
-    tag: "1.0"
+    tag: "1.4"
     pullPolicy: Always
 
   nameOverride: ""
